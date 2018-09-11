@@ -1,0 +1,1 @@
+g++ -std=c++11 ConnectK.cpp Move.cpp AIShell.cpp -o TrashcanDumpsterAI
